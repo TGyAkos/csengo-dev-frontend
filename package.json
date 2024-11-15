@@ -1,6 +1,6 @@
 {
 	"name": "client",
-	"version": "5.5.3",
+	"version": "Snowflake",
 	"private": true,
 	"scripts": {
 		"dev": "vite",
